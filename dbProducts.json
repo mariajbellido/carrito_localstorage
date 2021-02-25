@@ -4,7 +4,7 @@
     "name": "Helado sándwich de nata",
     "image": "./img/sandwich-nata.jpg",
     "extraInfo": "Caja 6 ud. (600 ml",
-    "price": 1.20
+    "price": 1.2
   },
   {
     "id": 2,
@@ -39,7 +39,7 @@
     "name": "Helado yogoice Mr. Toddy",
     "image": "./img/yogoice.jpg",
     "extraInfo": "Caja 8 ud. (450 ml)",
-    "price": 1.70
+    "price": 1.7
   },
   {
     "id": 7,
