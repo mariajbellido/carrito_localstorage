@@ -1,5 +1,3 @@
-
-
-###PROYECTO TIENDA HELADOS (Local Storage)
+### TIENDA HELADOS (Local Storage)
 
 
